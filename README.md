@@ -1,5 +1,6 @@
 # Snake
 Snake game written in Java
+![](https://henriksunde.no/snake.png)
 
 ## Dependencies
 Java JRE 8
